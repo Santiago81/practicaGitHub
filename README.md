@@ -19,7 +19,7 @@ Si, podría ser fast forward porque Git detecta que la rama master no ha experim
 - ¿Qué comando o comandos utilizaste en el paso 29?
 **git branch -d title**
 - ¿Qué comando o comandos utilizaste en el paso 30?
-**git reset --hard**al commit del merge (ya que lo hicmos no fast-forward)
+**git reset --hard** al commit del merge (ya que lo hicmos no fast-forward)
 - ¿Qué comando o comandos usaste en el paso 32?
 **git reset --hard** a la referencia  de git log del primer commit
 - ¿Qué comando o comandos usaste en el punto 33?
